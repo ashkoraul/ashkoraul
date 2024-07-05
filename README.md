@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ashok Raj @ashkoraul
-- 👀 I’m interested in Machine Learning, AI and Robotics
-- 🌱 I’m currently learning Reinforcement Learning through Udacity
-- 💞️ I’m looking to collaborate on projects related ML and also would like to get involved with startups at pre seed or seed stage
+- 👀 I’m interested in Machine Learning, AI and Blockchain
 - 📫 You can reach me on LinkedIn (https://www.linkedin.com/in/rajashok/) or on telegram (@ashkoraul)
 
 <!---
